@@ -8,9 +8,9 @@ I created a course for where i will explain in detail how all of this works in f
 
 To use this repository, you will need:
 
-- A blockchain development environment Hardhat
-- Node Js >= 16.14.2
-- Yarn >= 1.22.19 or npm >= 8.5.0
+-   Node Js >= 16.14.2
+-   Yarn >= 1.22.19 or npm >= 8.5.0
+-   A blockchain development environment Hardhat
 
 ## **Installation**
 
@@ -25,7 +25,8 @@ To use this repository, you will need:
 
 ## **Contract Overview**
 
-- MyBeautyNFT.sol: This contract defines the all the functionalities of an NFT, including minting, metadata and allowlist.
+-   `MyBeautyNFT.sol`: This contract defines the all the functionalities of an NFT, including minting, metadata and allowlist.
+-   `SalesActivation.sol`: A contract that defines when sales begins
 
 ## **License**
 
